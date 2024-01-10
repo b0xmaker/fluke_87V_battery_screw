@@ -11,7 +11,7 @@ An installed view of the battery cover:
 ![Battery cover](cover.JPG)
 
 A detailed view of the replacement screw:
-![Replacement screw - detail](3D_printscrew.jpg)
+![Replacement screw - detail](3D_printscrew.JPG)
 
 A detailed view of the OEM screw:
 ![OEM screw - detail](oem_screw.JPG)
